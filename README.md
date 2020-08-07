@@ -1,4 +1,4 @@
-# FYP
+# swap-curve-curvature-trading-strategy
 MEng final year project
 
 ## Abstract
