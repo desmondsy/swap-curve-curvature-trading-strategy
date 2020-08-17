@@ -11,7 +11,7 @@ To backtest the trading strategy, the Laplacian matrix is viewed as different se
 pip3 install -r requirements.txt
 ```
 ## Dataset
-Contains swap rates for 15 different maturities ranging from 1Y-30Y, for a total of 8 swap denominations (USD, EUR, GBP, CAD, NZD, AUD, CHF, JPY). Set1 ranges from Jan 2015 to Jul 2019, and set2 ranges from Jan 2000 to May 2020. Data retrieved via the Bloomberg Terminal Excel Add-in tool.
+Contains swap rates for 15 different maturities ranging from 1Y-30Y, for a total of 8 swap denominations (USD, EUR, GBP, CAD, NZD, AUD, CHF, JPY). Set1 ranges from Jan 2015 to Jul 2019, and set2 ranges from Jan 2000 to May 2020. Data is retrieved via the Bloomberg Terminal Excel Add-in tool.
 
-## Walkthrough
-- 
+## Theory
+- The `baseline/theory.ipynb` notebook contains a brief summary of the theory and rationale behind the creation of the strategy.
